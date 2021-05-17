@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Anagram"/>
+	<classpathentry kind="src" path="CharacterSymbolOrDigit"/>
+	<classpathentry kind="src" path="DeleteWord"/>
+	<classpathentry kind="src" path="EmailCheck"/>
+	<classpathentry kind="src" path="MaximumOccuringCharacter"/>
+	<classpathentry kind="src" path="NonRepeatingCharacter"/>
+	<classpathentry kind="src" path="NumberOfWordsInAString"/>
+	<classpathentry kind="src" path="PrintDuplicates"/>
+	<classpathentry kind="src" path="RemoveCharactersFromFirstPresentInSecond"/>
+	<classpathentry kind="src" path="RemoveDuplicates"/>
+	<classpathentry kind="src" path="RemoveGivenCharacter"/>
+	<classpathentry kind="src" path="RepeatWords"/>
+	<classpathentry kind="src" path="StringReverse"/>
+	<classpathentry kind="src" path="SubstringExtract"/>
+	<classpathentry kind="src" path="UpperCase"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
